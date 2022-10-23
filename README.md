@@ -4,7 +4,7 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/nisarga-developer/DSA-Collection" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/nisarga-developer/DSA-Collection" />
 
-Collection of DSA solutions of famous DSA problems. Feel free to star & fork.
+Collection of DSA solutions. Feel free to star & fork.
 
 
 DSA solutions must be written in any one of these languages - Python, Java, C or C++.

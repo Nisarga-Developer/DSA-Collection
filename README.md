@@ -4,8 +4,9 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/nisarga-developer/DSA-Collection" />
 
 
-A collection of DSA solutions. Feel free to star & fork.
+A collection of DSA solutions. Feel free to 🌟 star & fork the repository.
 
 
 DSA solutions must be written in any one of these four languages - Python, Java, C or C++.
 If you want to add a new solution, please open a Pull Request.
+Contributions are always welcome!!
